@@ -6,7 +6,9 @@
 🎓 &nbsp;I'm currently studying Information Technology at the IIIT, Allahabad.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
 💻 &nbsp;In my free time, I do Competitive Programming and watch Anime :)\
-📫 &nbsp;Here is my ![LinkedIn](https://www.linkedin.com/in/007prateekd/) in case anyone wants to reach me.
+📫 &nbsp;Here is my ![LinkedIn](https://www.linkedin.com/in/007prateekd/) in case anyone wants to reach me.\
+🔁 _Repeat till Perfection_
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,4 +27,4 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
 
-> Repeat Till Perfection
+
