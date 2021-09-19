@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently a Junior (IT) at Information Technology at IIIT, Allahabad.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Machine Learning.\
 💻 &nbsp;In my free time, I do Competitive Programming and watch Anime :)\
-📫 &nbsp;Here is my [LinkedIn](https://www.linkedin.com/in/007prateekd/) in case anyone wants to reach me.\
+📫 &nbsp;Here is my [LinkedIn](https://www.linkedin.com/in/007prateekd/) and [Email](mailto:007prateekd@gmail.com) in case anyone wants to reach me.\
 🔁 **Repeat till you Reap**
 
 
