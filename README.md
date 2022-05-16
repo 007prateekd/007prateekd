@@ -3,7 +3,7 @@
 ### 👨‍💻 &nbsp;About Me
 
 💡 &nbsp;I am always interested in knowing why and how specific things do what they do.\
-🎓 &nbsp;I'm currently a Sunior at IIIT, Allahabad majoring in Information Technology.\
+🎓 &nbsp;I'm currently a Senior at IIIT, Allahabad majoring in Information Technology.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Machine Learning.\
 💻 &nbsp;In my free time, I do Competitive Programming and watch Anime :)\
 📫 &nbsp;Here is my [LinkedIn](https://www.linkedin.com/in/007prateekd/) and [Email](mailto:007prateekd@gmail.com) in case anyone wants to reach me.
