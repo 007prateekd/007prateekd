@@ -1,15 +1,15 @@
-<h2>👋 Hey there!</h2>
+<h2>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 ### 👨‍💻 &nbsp;About Me
 
-💡 &nbsp;I am always interested in knowing why and how specific things do what they do.\
-🎓 &nbsp;I'm currently a Senior at IIIT, Allahabad majoring in Information Technology.\
-🌱 &nbsp;I'm on track for learning more about Data Science and Artificial Intelligence.\
+💡 &nbsp;Always interested in knowing why and how specific things do what they do.\
+🎓 &nbsp;Currently a Senior at IIIT, Allahabad majoring in Information Technology.\
+🌱 &nbsp;On track for learning more about Data Science and Artificial Intelligence.\
 💻 &nbsp;In my free time, I do Competitive Programming and watch Anime :)\
 📫 &nbsp;Here is my [LinkedIn](https://www.linkedin.com/in/007prateekd/) and [Email](mailto:007prateekd@gmail.com) in case anyone wants to reach me.
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Technologies & Tools
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
@@ -36,7 +36,7 @@
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>&nbsp;
 
 
-### 📈  &nbsp;My Stats
+### 📈  &nbsp; GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=007prateekd&theme=github_dark" height=170>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007prateekd&layout=compact&theme=github_dark" height=170>
