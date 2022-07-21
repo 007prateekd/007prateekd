@@ -39,4 +39,4 @@
 ### 📈  &nbsp; GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=007prateekd&theme=github_dark" height=170>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007prateekd&layout=compact&theme=github_dark" height=170>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007prateekd&layout=compact&theme=github_dark" height=150>
